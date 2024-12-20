@@ -4,10 +4,10 @@ Contains Library for Notification Service Extension.
 
 Guide: <https://docs.edna.io/kb/enabling-ios-push-notifications/>
 
-https://edna.ru/
+https://edna.io/
 
 Sales:<br>
-sales@edna.ru
+sales@edna.io
 
 Tech support:<br>
-support@edna.ru
+support@edna.io
